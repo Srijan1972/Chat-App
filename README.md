@@ -1,7 +1,8 @@
 
 # Realtime Chat App
 
-This app allows users to chat with each other in separate rooms in real time. 
+This app allows users to chat with each other in separate rooms in real time.
+Available at: https://chat-app1972.herokuapp.com/
 
 
 ## Lessons Learned
